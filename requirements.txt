@@ -1,0 +1,8 @@
+streamlit
+pyAudioAnalysis
+imbalanced-learn
+eyeD3
+pydub
+matplotlib
+tqdm
+plotly
